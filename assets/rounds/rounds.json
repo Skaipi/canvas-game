@@ -1,0 +1,33 @@
+{
+    "rounds": [
+        {
+            "enemies": [
+                {
+                    "type": "red_ship",
+                    "x": 195,
+                    "y": 340
+                },
+                {
+                    "type": "blue_ship",
+                    "x": 1112,
+                    "y": 122
+                },
+                {
+                    "type": "yellow_ship",
+                    "x": 1867,
+                    "y": 458
+                },
+                {
+                    "type": "yellow_ship",
+                    "x": 1117,
+                    "y": 1742
+                },
+                {
+                    "type": "red_ship",
+                    "x": 2400,
+                    "y": -900
+                }
+            ]
+        }
+    ]
+}
